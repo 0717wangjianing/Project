@@ -8,6 +8,7 @@ import junit.framework.TestCase;
  * Mail to byhieg@gmail.com
  */
 public class AliveOtherThreadTest extends TestCase {
+    // 这是测试的例子
     public void testRun() throws Exception {
         AliveOtherThread run = new AliveOtherThread();
         System.out.println("12");
